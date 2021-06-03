@@ -1,0 +1,3 @@
+interface BaseMatte {
+    a: string;
+}
