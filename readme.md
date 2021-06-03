@@ -29,3 +29,4 @@ or
 npx eslint . --ext .ts
 ```
 ## Jest
+Only the basics to run with typescript. It will consider a test anyfile ending with `.spec.ts`

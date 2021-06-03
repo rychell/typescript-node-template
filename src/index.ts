@@ -1,3 +1,1 @@
-interface BaseMatte {
-    a: string;
-}
+// Start your app here
